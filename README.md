@@ -1,8 +1,13 @@
-# martins okobiebi — MIT 8103
+# Library Management System
 
-Student ID: 301866002
+martins okobiebi · Student ID 301866002
 
-Library Management
-System
+The portfolio uses fictional records for Library Management System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](okobiebi_martins_301866002_FinalSummary.md) · [PDF](okobiebi_martins_301866002_FinalSummary.pdf)
